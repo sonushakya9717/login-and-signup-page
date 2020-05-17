@@ -1,0 +1,58 @@
+[
+    {
+        "kartik19@navgurukul.org": "navgurukul",
+        "data": [
+            {
+                "Name": "kartik sharma",
+                "place": "bhilwara",
+                "age": 20
+            }
+        ]
+    },
+    {
+        "sonu19@navgurukul.org": "navgurukul",
+        "data": [
+            {
+                "Name": "sonu shakya",
+                "place": "delhi",
+                "age": 16
+            }
+        ]
+    },
+    {
+        "shubham19@navgurukul.org": "navgurukul",
+        "data": [
+            {
+                "Name": "shubham sarkar",
+                "place": "delhi",
+                "age": 60
+            }
+        ]
+    },
+    {
+        "biju19@navgurukul.org": "navgurukul",
+        "data": []
+    },
+    {
+        "biju@gmail.com": "12345",
+        "data": [
+            {
+                "Name": "biju",
+                "place": "kk",
+                "age": "18"
+            }
+        ]
+    },
+    {
+        "dsdvfsdfsd": "fvzxvxc",
+        "data": [
+            {}
+        ]
+    },
+    {
+        "1234": "1234",
+        "data": [
+            {}
+        ]
+    }
+]
